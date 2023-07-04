@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/angshu-majumdar-4ab3361a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angshu-majumdar-4ab3361a6" height="30" width="40" /></a>
 <a href="https://instagram.com/_blaze_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_blaze_20" height="30" width="40" /></a>
 <a href="https://hashnode.com/@importangs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@importangs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@angshumajumdar7145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@angshumajumdar7145" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@angshumajumdar7145/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@angshumajumdar7145" height="30" width="40" /></a>
 <a href="https://discord.gg/N4fFFnED" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="N4fFFnED" height="30" width="40" /></a>
 </p>
 
