@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center">Hi 👋, I'm Angshu Majumdar</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Eat+code+sleep+anime+Repeat.)](https://github.com/sponsors/heyValdemar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Eat+Code+Sleep+Anime+Repeat.)](https://github.com/sponsors/heyValdemar)
 <h3 align="center">A passionate developer & AWS_Cloud Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://heyitszel.files.wordpress.com/2016/11/makoto_smile.gif?w=500&zoom=2">
 <p align="left"> <a href="https://twitter.com/insomniac_gyan" target="blank"><img src="https://img.shields.io/twitter/follow/insomniac_gyan?logo=twitter&style=for-the-badge" alt="insomniac_gyan" /></a> </p>
